@@ -1,0 +1,12 @@
+C:\shraddha\TechReturners\Potter_kata\PracticeSample\bin\Debug\net5.0\PracticeSample.deps.json
+C:\shraddha\TechReturners\Potter_kata\PracticeSample\bin\Debug\net5.0\PracticeSample.dll
+C:\shraddha\TechReturners\Potter_kata\PracticeSample\bin\Debug\net5.0\ref\PracticeSample.dll
+C:\shraddha\TechReturners\Potter_kata\PracticeSample\bin\Debug\net5.0\PracticeSample.pdb
+C:\shraddha\TechReturners\Potter_kata\PracticeSample\obj\Debug\net5.0\PracticeSample.csprojAssemblyReference.cache
+C:\shraddha\TechReturners\Potter_kata\PracticeSample\obj\Debug\net5.0\PracticeSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\shraddha\TechReturners\Potter_kata\PracticeSample\obj\Debug\net5.0\PracticeSample.AssemblyInfoInputs.cache
+C:\shraddha\TechReturners\Potter_kata\PracticeSample\obj\Debug\net5.0\PracticeSample.AssemblyInfo.cs
+C:\shraddha\TechReturners\Potter_kata\PracticeSample\obj\Debug\net5.0\PracticeSample.csproj.CoreCompileInputs.cache
+C:\shraddha\TechReturners\Potter_kata\PracticeSample\obj\Debug\net5.0\PracticeSample.dll
+C:\shraddha\TechReturners\Potter_kata\PracticeSample\obj\Debug\net5.0\ref\PracticeSample.dll
+C:\shraddha\TechReturners\Potter_kata\PracticeSample\obj\Debug\net5.0\PracticeSample.pdb
