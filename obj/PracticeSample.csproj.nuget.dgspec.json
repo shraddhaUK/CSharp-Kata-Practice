@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\shraddha\\TechReturners\\Potter_kata\\PracticeSample\\PracticeSample.csproj": {}
+    "c:\\shraddha\\TechReturners\\Potter_kata\\PracticeSample\\PracticeSample.csproj": {}
   },
   "projects": {
-    "C:\\shraddha\\TechReturners\\Potter_kata\\PracticeSample\\PracticeSample.csproj": {
+    "c:\\shraddha\\TechReturners\\Potter_kata\\PracticeSample\\PracticeSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\shraddha\\TechReturners\\Potter_kata\\PracticeSample\\PracticeSample.csproj",
+        "projectUniqueName": "c:\\shraddha\\TechReturners\\Potter_kata\\PracticeSample\\PracticeSample.csproj",
         "projectName": "PracticeSample",
-        "projectPath": "C:\\shraddha\\TechReturners\\Potter_kata\\PracticeSample\\PracticeSample.csproj",
+        "projectPath": "c:\\shraddha\\TechReturners\\Potter_kata\\PracticeSample\\PracticeSample.csproj",
         "packagesPath": "C:\\Users\\sushasri\\.nuget\\packages\\",
-        "outputPath": "C:\\shraddha\\TechReturners\\Potter_kata\\PracticeSample\\obj\\",
+        "outputPath": "c:\\shraddha\\TechReturners\\Potter_kata\\PracticeSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sushasri\\AppData\\Roaming\\NuGet\\NuGet.Config"
